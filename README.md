@@ -5,6 +5,6 @@ Tools:
   SQLite, Jupyter
   
 Key Concepts covered:
-             Deriving Summary Statistics from a database
-             Common SQL Commands
+             Deriving Summary Statistics from a database,
+             Common SQL Commands,
              Nested SQL Queries
